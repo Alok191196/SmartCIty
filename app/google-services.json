@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "847193187896",
+    "firebase_url": "https://smartcity-92319.firebaseio.com",
+    "project_id": "smartcity-92319",
+    "storage_bucket": "smartcity-92319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847193187896:android:835a2d019f83c4c9",
+        "android_client_info": {
+          "package_name": "com.example.map.smartcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847193187896-njeq544qdur9qbp1fmjdfdtcfo1msmpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFfileaZYbuMjZIZfY0_Qrfo7Uu74_tM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
